@@ -1,0 +1,20 @@
+{
+  "universities": {
+    "university": "South Carolina State University",
+    "students": [
+      {
+        "name": "Stephen Cousins"
+      },
+      {
+        "name": "Austin A. Newton"
+      },
+      {
+        "name": "Adam Wilhite"
+      },
+      {
+        "name": "Enis Kurtay YILMAZ"
+      }
+    ]
+  }
+}
+
